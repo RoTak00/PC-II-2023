@@ -1,0 +1,16 @@
+Cache Misses: 7
+1. image1 image2 cover 
+2. text2 image2 cover 
+3. text2 image2 cover 
+4. text2 image2 cover 
+5. text3 image2 cover 
+6. text3 image2 cover 
+7. text3 image2 image3 
+8. text3 image2 image3 
+9. text3 image1 image3 
+10. text3 image1 image3 
+11. text3 image1 image3 
+12. text3 text1 image3 
+13. text3 text1 text2 
+14. text3 text1 text2 
+15. text3 cover text2 
